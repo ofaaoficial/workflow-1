@@ -1,3 +1,3 @@
 // Hotfix
-    // Feature 1
-console.log('v1.1.1');
+    // Feature 2
+console.log('v1.2.0');
