@@ -1,2 +1,3 @@
 // Hotfix
-console.log('v1.0.1');
+    // Feature 1
+console.log('v1.1.0');
