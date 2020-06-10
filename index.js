@@ -1,1 +1,2 @@
-console.log('v1.0.0')
+// Hotfix
+console.log('v1.0.0');
